@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/usr/bin/env /home/ivo/.local/bin/todo
+Name=TODO
+StartupNotify=false
+Terminal=true
+Type=Application

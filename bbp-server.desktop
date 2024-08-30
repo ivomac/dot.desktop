@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=/usr/bin/env ~/.local/bin/bbp-server toggle
+Name=BBP-Samba-Server
+StartupNotify=false
+Type=Application
