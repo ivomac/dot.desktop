@@ -1,6 +1,7 @@
 [Desktop Entry]
-Exec=/usr/bin/env /home/ivo/.local/bin/todo
-Name=TODO
+Exec=/usr/bin/env RUN=~/.local/bin/todo zsh
+Name=Todo List
+Icon=/usr/share/icons/Pop/48x48/mimetypes/text-x-katefilelist.svg
 StartupNotify=false
 Terminal=true
 Type=Application

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=~/.local/bin/update-mirrorlist
+Name=Update Mirrorlist
+Icon=/usr/share/icons/Pop/48x48/places/archlinux.svg
+StartupNotify=false
+Type=Application

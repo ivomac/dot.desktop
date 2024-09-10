@@ -1,5 +1,6 @@
 [Desktop Entry]
 Exec=/usr/bin/env ~/.local/bin/bbp-server toggle
-Name=BBP-Samba-Server
+Name=BBP-EPFL Samba (SMB) Server
+Icon=/usr/share/icons/breeze-dark/places/22/server-database.svg
 StartupNotify=false
 Type=Application
