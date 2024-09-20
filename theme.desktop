@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=~/.local/bin/theme-switch
+Name=Theme Switch
+Icon=/usr/share/icons/breeze/actions/32/color-management.svg
+StartupNotify=false
+Type=Application
