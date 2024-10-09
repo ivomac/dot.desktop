@@ -1,5 +1,5 @@
 [Desktop Entry]
-Exec=sudo -A ~/.local/bin/update-hosts-file
+Exec=~/.local/bin/update-hosts-file
 Name=Update Hosts File
 Icon=/usr/share/icons/breeze-dark/emblems/8/emblem-locked.svg
 StartupNotify=false
